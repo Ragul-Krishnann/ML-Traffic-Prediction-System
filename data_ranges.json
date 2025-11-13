@@ -1,0 +1,25 @@
+{
+    "temp": {
+        "min": 243.39,
+        "max": 310.07
+    },
+    "traffic_thresholds": {
+        "low": 2157.9900000000016,
+        "high": 4546.0
+    },
+    "weather_main": {
+        "categories": [
+            "Clouds",
+            "Clear",
+            "Rain",
+            "Drizzle",
+            "Mist",
+            "Haze",
+            "Fog",
+            "Thunderstorm",
+            "Snow",
+            "Squall",
+            "Smoke"
+        ]
+    }
+}
